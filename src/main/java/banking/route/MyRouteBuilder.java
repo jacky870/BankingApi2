@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component()
 public class MyRouteBuilder extends RouteBuilder {
-
+// This is added from feature branch
     @Override
     public void configure() throws Exception {
         restConfiguration()
